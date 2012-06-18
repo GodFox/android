@@ -339,7 +339,7 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <!--omap kernel sourcecode-->
-  <project path="kernel/moto/mb525" name="CyanogenDefy/kernel-omap" />
+  <project path="kernel" name="CyanogenDefy/kernel-omap" />
 
 <project path="android" name="GodFox/android" />
 
