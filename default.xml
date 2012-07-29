@@ -281,6 +281,6 @@
 <project path="packages/apps/DroidSSHd" name="tpruvot/android_external_droidsshd" />
 <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="GodFox/android" />
 
 </manifest>
