@@ -8,7 +8,7 @@
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
-  <default revision="tpruvot-ics"
+  <default revision="ics"
            remote="github"
            sync-j="4" />
 
@@ -281,6 +281,6 @@
 <project path="packages/apps/DroidSSHd" name="tpruvot/android_external_droidsshd" />
 <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
 
-  <project path="android" name="GodFox/android" />
+  <project path="android" name="GodFox/android" revision="tpruvot-ics" />
 
 </manifest>
